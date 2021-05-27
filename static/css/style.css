@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#mapid,
+body,
+html {
+  height:100%;
+  
+}
+.legend {
+  padding: 5px;
+  color:#555;
+  background-color:beige;
+  border-radius: 5px;
+ 
+}
+.legend i {
+  float: left;
+  width: 30px;  /*Changed it from 18px */
+  height: 18px;
+  margin-right: 8px;
+  opacity: 0.7;
+}
